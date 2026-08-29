@@ -3,7 +3,7 @@
 &nbsp;
 <div>
 <p align="center">
-  <a href="https://discord.com/users/692477116390047855" target="_blank">
+  <a href="https://discord.com/users/698353134925512716" target="_blank">
     <img alt="discord" src="https://img.shields.io/badge/discord-serif?style=for-the-badge&logo=discord&logoColor=FFFFFF&logoSize=auto&labelColor=3c0561&color=3c0561&cacheSeconds=3600">
   </a>
   &nbsp;
