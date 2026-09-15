@@ -8,7 +8,7 @@
   </a>
   &nbsp;
  <a href="https://steamcommunity.com/id/noct151337/" target="blank">
-  <img alt="steam" src="https://img.shields.io/badge/cs2-serif?style=for-the-badge&logo=counterstrike&logoColor=FFFFFf&logoSize=auto&labelColor=3c0561&color=3c0561&cacheSeconds=3600">
+  <img alt="steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
   </a>
   &nbsp;
   <a href="https://open.spotify.com/user/31lwaixvra45bka26ymwxorya4uu?si=HumLk7KyTxyanAma6L7puQ&utm_source=copy-link" target="_blank">
