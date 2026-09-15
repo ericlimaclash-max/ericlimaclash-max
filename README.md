@@ -3,18 +3,9 @@
 &nbsp;
 <div>
 <p align="center">
-  <a href="https://discord.com/users/698353134925512716" target="blank">
-    <img alt="discord" src="https://img.shields.io/badge/discord-serif?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  &nbsp;
- <a href="https://steamcommunity.com/id/noct151337/" target="blank">
-  <img alt="steam" src="https://img.shields.io/badge/steam-serif?style=for-the-badge&logo=steam&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://open.spotify.com/user/31lwaixvra45bka26ymwxorya4uu?si=HumLk7KyTxyanAma6L7puQ&utm_source=copy-link" target="_blank">
-  <img alt="Spotify" src="https://img.shields.io/badge/spotify-serif?style=for-the-badge&logo=spotify&logoColor=white">
-  </a>
+  <a href="https://discord.com/users/698353134925512716" target="blank"><img alt="discord" src="https://shields.io"></a><a href="https://steamcommunity.com/id/noct151337/" target="blank"><img alt="steam" src="https://shields.io" style="margin-left: 10px; margin-right: 10px;"></a><a href="https://open.spotify.com/user/31lwaixvra45bka26ymwxorya4uu?si=HumLk7KyTxyanAma6L7puQ&utm_source=copy-link" target="_blank"><img alt="Spotify" src="https://shields.io"></a>
 </p>
+
 </div>
 
 
